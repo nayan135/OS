@@ -1,0 +1,11 @@
+mkdir directory name ---- make a new directory
+cd directory name---------goes inside a directory
+echo.> filename-----------create a new file
+dir-----------------------list available directory
+cd.. --------------------goes out of a directory
+copy con filename--------overwrite or create a new file
+copy "path to the file" ---copy a file
+move path of file----------move/cut a file
+rename oldname newname-----rename a file 
+
+
