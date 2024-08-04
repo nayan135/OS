@@ -7,5 +7,4 @@ copy con filename--------overwrite or create a new file
 copy "path to the file" ---copy a file
 move path of file----------move/cut a file
 rename oldname newname-----rename a file 
-
-
+del filename---------------delete a file
